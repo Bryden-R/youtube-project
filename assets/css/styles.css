@@ -84,7 +84,7 @@
   padding: 8px;
 }
 
-.icons-section img{
+.icons-section img {
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -215,7 +215,7 @@
   text-decoration: none;
 }
 
-.video-detail-text p a:hover{
+.video-detail-text p a:hover {
   color: rgb(68, 66, 66);
 }
 
